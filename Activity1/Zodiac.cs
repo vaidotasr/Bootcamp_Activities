@@ -151,7 +151,7 @@ namespace CSharp.Activity.Profile
                     if (day <= 21)
                         return SAGITTARIUS;
                     else
-                        return Zodiac.CAPRICORN;
+                        return CAPRICORN;
             }
 
 
